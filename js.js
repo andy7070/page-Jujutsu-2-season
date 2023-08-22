@@ -45,9 +45,9 @@ function clickMenu(){
 
       epep.style.transition = '0.7s'
 
-      if(epseta.style.transform == 'rotateX(180deg)'){
-      epseta.style.transform = 'rotateX(0deg)'}else{
-      epseta.style.transform = 'rotateX(180deg)'}
+      if(epseta.style.transform == 'rotateX(0deg)'){
+      epseta.style.transform = 'rotateX(180deg)'}else{
+      epseta.style.transform = 'rotateX(0deg)'}
 
       
     }

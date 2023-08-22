@@ -293,7 +293,7 @@ background-color: greenyellow;}
 color: greenyellow;
 font-size: 1.3rem;
 padding: 0 10px;
-transform: rotateX(180deg);}
+transform: rotateX(0deg);}
 
 
 
@@ -328,3 +328,42 @@ color: greenyellow;}
 #iframe{
 margin: 30px 20px;}
 
+
+/* generos e links*/
+
+.links-generos{
+    display: flex;
+    }
+    
+    .links-generos h6{
+        text-align: center;
+        font-size: .80rem;
+        margin: 10px 7px;
+        padding-left: 5px;
+    }
+    
+    .links-generos h6 a{
+    text-decoration: none;
+    color: greenyellow;}
+    
+    .links-generos h6 a:hover{
+    color: white;}
+    
+    .detalhes{
+    margin: 10px 10px;}
+    
+    .detalhes ul{
+    list-style: none;
+    ;}
+    
+    .detalhes ul li{
+      color: white;
+      line-height: 2.5rem;
+    padding-left: 5px;}
+    
+    
+    .ion{
+     font-size: 1.2rem;
+      text-align: justify;}
+    
+    
